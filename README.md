@@ -1,5 +1,28 @@
-# About this repository
+# Welcome to Pursuit!
 
-This repository serves as a front-page for the classroom org.
+This GitHub organization is where you will find content and exercises for this course. Please click the **Follow** button at the top of the page to stay updated on changes happening in this space.
 
-> **Note**: The original template must be `public` in order for the forks of it to be `public`. If this repository is not public, the front-page view will not be available. 
+## Resources
+
+You may find the following links useful:
+
+## M1 
+- [Zoom Channel]()
+- [Canvas]()
+- [Coach Caston's Office Hours Sign-up]()
+- [Coach Joshua's Office Hours Sign-up]()
+
+
+## M2 
+- [Zoom Channel]()
+- [Canvas]()
+- [Coach Caston's Office Hours Sign-up]()
+- [Coach Joshua's Office Hours Sign-up]()
+
+
+# Curriculum Overview
+
+## M1: Fundamentals 
+
+Lecture 1: [Coaches Notes]() | [Zoom Recording]() | [Visuals]()
+
