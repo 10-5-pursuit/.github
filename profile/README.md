@@ -13,13 +13,6 @@ You may find the following links useful:
 - [Coach Joshua's Office Hours Sign-up]()
 
 
-## M2 
-- [Zoom Channel]()
-- [Canvas]()
-- [Coach Caston's Office Hours Sign-up]()
-- [Coach Joshua's Office Hours Sign-up]()
-
-
 # Curriculum Overview
 
 ## M1: Fundamentals 
