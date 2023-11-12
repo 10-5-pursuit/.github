@@ -13,7 +13,7 @@ You may find the following links useful:
 - [Coach Joshua's Office Hours Sign-up]()
 
 
-# Curriculum Overview
+## Curriculum Overview
 
 ## M1: Fundamentals 
 
