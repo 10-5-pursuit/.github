@@ -15,6 +15,6 @@ You may find the following links useful:
 
 ## Curriculum Overview
 
-## M1: Fundamentals 
+### M1: Fundamentals 
 
 Lecture 1: [Coaches Notes]() | [Zoom Recording]() | [Visuals]()
