@@ -16,5 +16,5 @@ You may find the following links useful:
 ## Curriculum Overview
 
 ### M1: Fundamentals 
-
-Lecture 1: [Coaches Notes]() | [Zoom Recording]() | [Visuals]()
+[Module Kickoff]()
+Lecture 1 - Intro to Computers and Programs: [Coaches Notes]() | [Zoom Recording]() | [Visuals]()
