@@ -17,4 +17,4 @@ You may find the following links useful:
 
 ### M1: Fundamentals 
 Module 1 Kickoff: [Slides]()<br>
-Intro to Computers and Programs: [Coaches Notes]() | [Zoom Recording]() | [Visuals]()
+Intro to Computers and Programs: [Coaches Notes](https://gist.github.com/CastonPursuit/2d628b3c3b9fd4337bf82f828d5177e2) | [Zoom Recording]() | [Visuals]()
