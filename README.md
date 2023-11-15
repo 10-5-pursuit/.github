@@ -24,5 +24,5 @@ You may find the following links useful:
 
 ## M1: Fundamentals 
 
-Lecture 1: [Coaches Notes]() | [Zoom Recording]() | [Visuals]()
+Lecture 1: [Coaches Notes](https://gist.github.com/CastonPursuit/2d628b3c3b9fd4337bf82f828d5177e2) | [Zoom Recording]() | [Visuals]()
 
