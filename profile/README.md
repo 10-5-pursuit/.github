@@ -7,8 +7,8 @@ This GitHub organization is where you will find content and exercises for this c
 You may find the following links useful:
 
 ## M1 
-- [Zoom Channel]()
-- [Canvas]()
+- [Zoom Channel](https://us06web.zoom.us/j/86031129111)
+- [Canvas](https://pursuit.instructure.com/courses/165)
 - [Coach Caston's Office Hours Sign-up]()
 - [Coach Joshua's Office Hours Sign-up]()
 
@@ -16,9 +16,10 @@ You may find the following links useful:
 ## Curriculum Overview
 
 ### M1: Fundamentals 
-11/15 - Module 1 Kickoff: [Slides]()<br>
+11/15 - Module 1 Kickoff: [Slides](https://docs.google.com/presentation/d/1-iHNypZwTdb5zpTA-zQigfSmHg5Ex-cAbLAWOofkb2c/edit#slide=id.g420132f636_0_109)<br>
 11/15 - Intro to Computers and Programs: [Coaches Notes](https://gist.github.com/CastonPursuit/2d628b3c3b9fd4337bf82f828d5177e2) | [Visuals](https://docs.google.com/presentation/d/1D4IXKnT4Fa0LfvklEATHGwCxN0k2rWBtuKg884KblOI/edit#slide=id.g420132f636_0_109) | [Prereading](https://github.com/10-5-pursuit/unit-fundamentals/blob/main/intro-to-code/readme.md) | [Video](https://www.youtube.com/watch?v=TQCr9RV7twk) <br>
-11/16 - Data Types pt.1: [Coaches Notes]() | [Zoom Recording]() | [Visuals]() | [Prereading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/intro-to-javascript) | [Video](https://www.youtube.com/watch?v=A37-3lflh8I) | [Slides](https://docs.google.com/presentation/d/1VPWmwDHUwfPM3MWMPnEVVdpVsyEILGz1FxE9CKvKPUI/edit#slide=id.g5a0daf6a0f_0_0)
+11/16 - Data Types pt.1: [Coaches Notes](https://gist.github.com/CastonPursuit/f888f52472e45c338ceb297ed98e337c) | [Prereading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/intro-to-javascript) | [Video](https://www.youtube.com/watch?v=A37-3lflh8I) | [Slides](https://docs.google.com/presentation/d/1VPWmwDHUwfPM3MWMPnEVVdpVsyEILGz1FxE9CKvKPUI/edit#slide=id.g5a0daf6a0f_0_0)
+11/17 - Data Types pt.2: [Coaches Notes](https://gist.github.com/CastonPursuit/f888f52472e45c338ceb297ed98e337c) | [Prereading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/intro-to-javascript) | [Slides](https://docs.google.com/presentation/d/1IBPZK_wHioTJEIm4TT6Ke5b_KF7E10h7MWlheeS74Sw/edit#slide=id.g420132f666_1_13)
 
 
 
