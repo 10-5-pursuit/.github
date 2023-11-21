@@ -21,7 +21,7 @@ You may find the following links useful:
 11/16 - Data Types pt.1: [Coaches Notes]() | [Zoom Recording]() | [Visuals]() | [Prereading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/intro-to-javascript) | [Video](https://www.youtube.com/watch?v=A37-3lflh8I) | [Slides](https://docs.google.com/presentation/d/1VPWmwDHUwfPM3MWMPnEVVdpVsyEILGz1FxE9CKvKPUI/edit#slide=id.g5a0daf6a0f_0_0) <br>
 11/17 - Data Types pt.2: [Coaches Notes]() | [Zoom Recording]() | [Visuals]() | [Prereading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/intro-to-javascript) | [Video](https://www.youtube.com/watch?v=A37-3lflh8I) | [Slides](https://docs.google.com/presentation/d/1VPWmwDHUwfPM3MWMPnEVVdpVsyEILGz1FxE9CKvKPUI/edit#slide=id.g5a0daf6a0f_0_0) <br>
 11/20 - Control Flow pt.1: [Coaches Notes](https://gist.github.com/CastonPursuit/6811b68d6431a484875fcf74298eadeb) | [Zoom Recording]() | [Prereading](https://github.com/10-5-pursuit/unit-fundamentals/tree/main/control-flow) | [Video](https://www.youtube.com/watch?v=Wc1rH4uNKIE) | [Slides](https://docs.google.com/presentation/d/1QpqzLZ5O22JayLQqxREZ2k5MOmCaHAUydxkW0f74l8A/edit#slide=id.g420132f666_1_0) <br>
-11/21 - Control Flow pt.2: [Coaches Notes]() | [Zoom Recording]() || [Prereading]() | [Video]() | [Slides]()
+11/21 - Control Flow pt.2: [Coaches Notes]() | [Zoom Recording]() | [Prereading]() | [Video]() | [Slides]()
 
 
 
