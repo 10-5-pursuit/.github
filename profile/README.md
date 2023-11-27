@@ -9,8 +9,8 @@ You may find the following links useful:
 ## M1 
 - [Zoom Channel](https://us06web.zoom.us/j/86031129111)
 - [Canvas](https://pursuit.instructure.com/courses/165)
-- [Coach Caston's Office Hours Sign-up](https://calendar.app.google/nb72RkwgaJF2nKtA8)
-- [Coach Joshua's Office Hours Sign-up]()
+- [Coach Caston's 1-on-1 Hours Sign-up](https://calendar.app.google/nb72RkwgaJF2nKtA8)
+- [Coach Joshua's 1-on-1 Hours Sign-up]()
 
 
 ## Curriculum Overview
