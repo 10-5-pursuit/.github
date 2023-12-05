@@ -32,7 +32,7 @@ You may find the following links useful:
 ) Passcode: PgG3..nP | [Reading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/loops) | [Coaching Notes](https://replit.com/@joshuanelsondev/In-Session-Practice-Loops) | Resources - [Video](https://www.youtube.com/watch?v=3hUdq32e2qA&ab_channel=CodifyAcademy), [Video](https://www.youtube.com/watch?v=xL2RuPkm4i0&ab_channel=CodingDavid)<br>
 12/05 - While Loops: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
 12/06 - Loop Review: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
-12/07 - Objects: [Zoom Recording]() | [Reading] | [Coaching Notes]() | Resources - [Video], [Video]<br>
-12/08 - Data Representation With Code: [Zoom Recording]() | [Reading] | [Coaching Notes]() | Resources - [Video], [Video]<br>
+12/07 - Objects: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
+12/08 - Data Representation With Code: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
 
 
