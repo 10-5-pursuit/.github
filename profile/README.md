@@ -10,7 +10,8 @@ You may find the following links useful:
 - [Zoom Channel](https://us06web.zoom.us/j/86031129111)
 - [Canvas](https://pursuit.instructure.com/courses/165)
 - [Coach Caston's 1-on-1 Hours Sign-up](https://calendar.app.google/nb72RkwgaJF2nKtA8)
-- [Coach Joshua's 1-on-1 Hours Sign-up](https://calendar.app.google/RHKfDAHKs1zcS39K7)
+- [Coach Joshua's 1-on-1 Hours Sign-up](https://calendar.app.google/BLMridCQ25XzArqm7)
+- [Coach Joshua's zoom recordings](https://github.com/joshuanelsondev/josh_zoom_recordings)
 
 
 ## Curriculum Overview
