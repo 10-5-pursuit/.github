@@ -35,5 +35,5 @@ You may find the following links useful:
 12/06 - Loop Review: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
 12/07 - Objects: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
 12/08 - Data Representation With Code: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
-
+1/11 - [Zoom Recording](https://us06web.zoom.us/rec/share/-Jf_n0EDv2lHaXTX6TpUrJgiIaKwlRj0u7x8EUsVcWdH6XPmd7-qCz6_cyN2NJel.9HhULF56koGcxIVd) passcode: 2XK.BcXr 
 
