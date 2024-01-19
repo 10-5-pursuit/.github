@@ -35,5 +35,5 @@ You may find the following links useful:
 12/06 - Loop Review: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
 12/07 - Objects: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
 12/08 - Data Representation With Code: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
-1/11 - [Zoom Recording](https://us06web.zoom.us/rec/share/-Jf_n0EDv2lHaXTX6TpUrJgiIaKwlRj0u7x8EUsVcWdH6XPmd7-qCz6_cyN2NJel.9HhULF56koGcxIVd) passcode: 2XK.BcXr 
+1/11 - [Zoom Recording](https://us06web.zoom.us/rec/share/-Jf_n0EDv2lHaXTX6TpUrJgiIaKwlRj0u7x8EUsVcWdH6XPmd7-qCz6_cyN2NJel.9HhULF56koGcxIVd) passcode: 2XK.BcXr <br>
 12/05 - While Loops: [Zoom Recording](https://us06web.zoom.us/rec/share/Zpo4G8tZcJLHGMIojd1CEeq2B4TsD8QOKE8BjFYUzIHDKiH1RWbKRUrsKDE2xB3K.uDS5pghGY4hcFHJM?startTime=1701790028000) | [Reading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/loops) | [Coaching Notes](https://replit.com/@CastonPursuit/In-Session-Practice-Loops) | Resources - [Video](https://www.youtube.com/watch?v=h84MlHv6g4Q&ab_channel=Telusko), [Video](https://www.youtube.com/watch?v=TDUz9QcGPoE&ab_channel=BroCode)<br>
