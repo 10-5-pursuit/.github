@@ -32,10 +32,31 @@ You may find the following links useful:
 12/04 - Looping Through Arrays: [Zoom Recording](https://us06web.zoom.us/rec/share/0R71jIJ-rmj8BM_FAbH1-ekR-ix-vT0lHyASGz81Q4kZwtLdWN8QdYDKnU6lTz1R.mGChs1WjAtrtr2yQ?startTime=1701704001000
 ) Passcode: PgG3..nP | [Reading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/loops) | [Coaching Notes](https://replit.com/@joshuanelsondev/In-Session-Practice-Loops) | Resources - [Video](https://www.youtube.com/watch?v=3hUdq32e2qA&ab_channel=CodifyAcademy), [Video](https://www.youtube.com/watch?v=xL2RuPkm4i0&ab_channel=CodingDavid)<br>
 12/05 - While Loops: [Zoom Recording](https://us06web.zoom.us/rec/share/Zpo4G8tZcJLHGMIojd1CEeq2B4TsD8QOKE8BjFYUzIHDKiH1RWbKRUrsKDE2xB3K.uDS5pghGY4hcFHJM?startTime=1701790028000) | [Reading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/loops) | [Coaching Notes](https://replit.com/@CastonPursuit/In-Session-Practice-Loops) | Resources - [Video](https://www.youtube.com/watch?v=h84MlHv6g4Q&ab_channel=Telusko), [Video](https://www.youtube.com/watch?v=TDUz9QcGPoE&ab_channel=BroCode)<br>
-12/06 - Loop Review: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
-12/07 - Objects: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
-12/08 - Data Representation With Code: [Zoom Recording] | [Reading] | [Coaching Notes] | Resources - [Video], [Video]<br>
+12/06 - Loop Review: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/07 - Objects: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/08 - Data Representation With Code: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 1/11 - [Zoom Recording](https://us06web.zoom.us/rec/share/-Jf_n0EDv2lHaXTX6TpUrJgiIaKwlRj0u7x8EUsVcWdH6XPmd7-qCz6_cyN2NJel.9HhULF56koGcxIVd) passcode: 2XK.BcXr <br>
-12/05 - While Loops: [Zoom Recording](https://us06web.zoom.us/rec/share/Zpo4G8tZcJLHGMIojd1CEeq2B4TsD8QOKE8BjFYUzIHDKiH1RWbKRUrsKDE2xB3K.uDS5pghGY4hcFHJM?startTime=1701790028000) | [Reading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/loops) | [Coaching Notes](https://replit.com/@CastonPursuit/In-Session-Practice-Loops) | Resources - [Video](https://www.youtube.com/watch?v=h84MlHv6g4Q&ab_channel=Telusko), [Video](https://www.youtube.com/watch?v=TDUz9QcGPoE&ab_channel=BroCode)<br>
-12/12 - While Loops: [Zoom Recording](https://docs.google.com/document/d/148Y-Ahh4b_OgaKG0gonLHeJuWM0XUPQvwYw8VkIq44s/edit) | [Reading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/loops) | [Coaching Notes](https://replit.com/@CastonPursuit/In-Session-Practice-Loops) | Resources - [Video](https://www.youtube.com/watch?v=h84MlHv6g4Q&ab_channel=Telusko), [Video](https://www.youtube.com/watch?v=TDUz9QcGPoE&ab_channel=BroCode)<br>
+12/11 - Coding Warmup/Study: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/12 - Practice/Project Info: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/13 - Project Review/Adding Unit Tests: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/14 - Project Review: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/15 - Mid-Check Review: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/18 - Intro to CodeTrack/Review: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/19 - VS Code/Higher Order Functions: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/20 - Mid-Check/Higher Order Functions: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+12/21 - Native Array Methods pt 1/Winter Break Plan: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/2 - Review/Revisit: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/3 - Native Array Methods pt 2: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/4 - Intro to Command Line/Local Env: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/5 - JS On Your Machine: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/8 - Coding Warm Up/Git Basics: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/9 - Git Hub Basics: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/10 - Coding Warm Up/Git Proficient: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/11 - Native Array Methods pt 2 Practice: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/12 - Review: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/15 - Coding Warm Up: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/16 - Study: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/17 - Coding Warm Up/Demo Day: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/18 - Study: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/19 - Study: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 
