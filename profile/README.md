@@ -21,7 +21,7 @@ You may find the following links useful:
 11/15 - Intro to Computers and Programs: [Coaches Notes](https://gist.github.com/CastonPursuit/2d628b3c3b9fd4337bf82f828d5177e2) | [Visuals](https://docs.google.com/presentation/d/1D4IXKnT4Fa0LfvklEATHGwCxN0k2rWBtuKg884KblOI/edit#slide=id.g420132f636_0_109) | [Prereading](https://github.com/10-5-pursuit/unit-fundamentals/blob/main/intro-to-code/readme.md) | [Video](https://www.youtube.com/watch?v=TQCr9RV7twk) <br>
 11/16 - Data Types pt.1: [Prereading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/intro-to-javascript) | [Video](https://www.youtube.com/watch?v=A37-3lflh8I) | [Slides](https://docs.google.com/presentation/d/1VPWmwDHUwfPM3MWMPnEVVdpVsyEILGz1FxE9CKvKPUI/edit#slide=id.g5a0daf6a0f_0_0) <br>
 11/17 - Data Types pt.2:  [Prereading](https://github.com/pursuit-curriculum/unit-fundamentals/tree/main/intro-to-javascript) | [Video](https://www.youtube.com/watch?v=A37-3lflh8I) | [Slides](https://docs.google.com/presentation/d/1VPWmwDHUwfPM3MWMPnEVVdpVsyEILGz1FxE9CKvKPUI/edit#slide=id.g5a0daf6a0f_0_0) <br>
-11/20 - Control Flow pt.1: [Coaches Notes](https://gist.github.com/CastonPursuit/6811b68d6431a484875fcf74298eadeb) | [Zoom Recording](https://us06web.zoom.us/rec/share/N7iP_ht3L8YuXdbPn8G_foAxxbNqsYhqbwd_SG5H3_uZJEtxzvbV_vdwiADThvmM.Er4n5xN5GV9yQXqp?startTime=1700493680000) Passcode: Qa1e&xA2 | [Prereading](https://github.com/10-5-pursuit/unit-fundamentals/tree/main/control-flow) | [Video](https://www.youtube.com/watch?v=Wc1rH4uNKIE) | [Slides](https://docs.google.com/presentation/d/1QpqzLZ5O22JayLQqxREZ2k5MOmCaHAUydxkW0f74l8A/edit#slide=id.g420132f666_1_0) <br>
+11/20 - Control Flow pt.1: [Coaches Notes](https://gist.github.com/CastonPursuit/6811b68d6431a484875fcf74298eadeb) | [Zoom Recording](https://us06web.zoom.us/rec/share/fCSsbdxJieqSnF_Kzt2tSs7vjwTkvRPHeenvsU37X0qttWGXEm_hRO7bqElCbs_-.SkrD3OgAmuiypBGc) | [Prereading](https://github.com/10-5-pursuit/unit-fundamentals/tree/main/control-flow) | [Video](https://www.youtube.com/watch?v=Wc1rH4uNKIE) | [Slides](https://docs.google.com/presentation/d/1QpqzLZ5O22JayLQqxREZ2k5MOmCaHAUydxkW0f74l8A/edit#slide=id.g420132f666_1_0) <br>
 11/21 - Control Flow pt.2:  [Zoom Recording]() | [Prereading]() | [Video](https://www.youtube.com/watch?v=mbT7sSmVUS8) | [Slides](https://docs.google.com/presentation/d/1Q_M6wAqI0hnV3v1yTNYMmkq1991b-xihB8UMjmC41xQ/edit#slide=id.g3986c96d49c0e4ac_18) <br>
 11/22 - Functions pt.1:  [Zoom Recording](https://us06web.zoom.us/rec/share/rFaGOzz33Z4K3YSJX8giLTzW5ySSjkPI7rZ1_qoMiwaFuZoRpZ47KgaZWp4YoQvM.Sa_mbzHGSnuMRwz) Passcode: 8^4tgDeV | [Coaching Notes](https://gist.github.com/CastonPursuit/eaaa7b2e0cdabacb456ddf56d054154c) <br>
 11/25 - Saturday Session: [Zoom Recording](https://us06web.zoom.us/rec/share/rFaGOzz33Z4K3YSJX8giLTzW5ySSjkPI7rZ1_qoMiwaFuZoRpZ47KgaZWp4YoQvM.Sa_mbzHGSnuMRwz-) Passcode: 8^4tgDeV| [Coaching Notes](https://replit.com/@CastonPursuit/FunctionDemobubble#script.js) <br>
@@ -35,7 +35,6 @@ You may find the following links useful:
 12/06 - Loop Review: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 12/07 - Objects: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 12/08 - Data Representation With Code: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
-1/11 - [Zoom Recording](https://us06web.zoom.us/rec/share/-Jf_n0EDv2lHaXTX6TpUrJgiIaKwlRj0u7x8EUsVcWdH6XPmd7-qCz6_cyN2NJel.9HhULF56koGcxIVd) passcode: 2XK.BcXr <br>
 12/11 - Coding Warmup/Study: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 12/12 - Practice/Project Info: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 12/13 - Project Review/Adding Unit Tests: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
@@ -52,7 +51,7 @@ You may find the following links useful:
 1/8 - Coding Warm Up/Git Basics: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 1/9 - Git Hub Basics: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 1/10 - Coding Warm Up/Git Proficient: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
-1/11 - Native Array Methods pt 2 Practice: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
+1/11 - Native Array Methods pt 2 Practice: [Zoom Recording](https://us06web.zoom.us/rec/share/zjVhWBzcGGG4JJhsdetJdzZQiw5lg7VWLpgiI-DgR-S5QFrqww9vW0KFEyGcnuqV.whDRse-XOpzMXeX8) | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 1/12 - Review: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 1/15 - Coding Warm Up: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 1/16 - Study: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
