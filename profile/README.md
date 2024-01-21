@@ -59,5 +59,4 @@ You may find the following links useful:
 1/16 - Nested Loops: [Zoom Recording](https://us06web.zoom.us/rec/share/Spf6OaMAjW6ZuUcZs8pNtMK29nlPZeknsvtdgnyP_tuHWHkv6gLsPJ95ZnaMC2iz.r4DPLGiZUrk4kmQV?startTime=1705419717000) | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 1/17 - Modern JS Features: [Zoom Recording](https://us06web.zoom.us/rec/share/mym2VjdAh8R1ZkG7EzkYFiXSiakRh1v6Cx1K7s5oLb-eIQUk_JvJLBPo2jTa3F4.LmGci7IX5JLva3j-?startTime=1705509668000) | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 1/18 - Evaluating Expressions/Accumulator Pattern: [Zoom Recording](https://us06web.zoom.us/rec/share/-cjMghN87BUeF7ec4RDPSkn-G2hNbiYdoFmnK1ZYQpOjuKGQJSmw5ANl2qwE25jQ.b98Oz28lLzojPWS6?startTime=1705591491000) | [Zoom Recording #2](https://us06web.zoom.us/rec/share/-cjMghN87BUeF7ec4RDPSkn-G2hNbiYdoFmnK1ZYQpOjuKGQJSmw5ANl2qwE25jQ.b98Oz28lLzojPWS6?startTime=1705676987000) | [Reading]() | [Coaching Notes]()<br>
-1/19 - Study: [Zoom Recording]() | [Reading]() | [Coaching Notes]() | Resources - [Video](), [Video]()<br>
 
